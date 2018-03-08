@@ -1,0 +1,2 @@
+# PythonStaticMethod
+スタティックメソッド
